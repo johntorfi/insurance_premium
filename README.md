@@ -1,6 +1,6 @@
-#
-Predicting Insurance Premiums
-A Comparative Analysis of Machine Learning Algorithms
+
+                    <h1>Predicting Insurance Premiums </h1>
+        # A Comparative Analysis of Machine Learning Algorithms#
 The purpose of this project is to develop a predictive model for insurance premium estimation based on a dataset obtained from Kaggle. The dataset consists of various factors such as age, sex, body mass index (BMI), number of children, smoking status, region, and insurance expenses. The objective is to explore the dataset, preprocess the data, and evaluate the performance of different machine learning algorithms in predicting insurance expenses accurately.
 Data Exploratory Analysis
 Initially, the dataset is examined to gain insights and understanding. The dataset comprises 1,338 instances with seven columns. Descriptive statistics are calculated to summarize the data. To prepare the categorical values for machine learning algorithms, label encoding is performed on the 'sex' and 'smoker' columns. One-hot encoding is then applied to transform these categorical variables into numerical features.
